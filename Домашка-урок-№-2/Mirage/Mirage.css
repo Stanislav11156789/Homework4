@@ -1,0 +1,11 @@
+body {
+  background-image: url("./img/1123549.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.b4 {
+  background: rgb(0, 66, 128);
+  color: white;
+  font-size: 12pt;
+}

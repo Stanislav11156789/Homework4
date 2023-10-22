@@ -1,0 +1,49 @@
+h1 {
+  text-align: center;
+  color: blue;
+  font-size: 300%;
+}
+
+.b9 {
+  color: red;
+  font-size: 300%;
+}
+.b10 {
+  color: red;
+  font-size: 100%;
+}
+.b11 {
+  color: red;
+  font-size: 100%;
+}
+.b12 {
+  color: red;
+  font-size: 100%;
+}
+.b15 {
+  color: white;
+  background: rgb(9, 0, 128);
+  font-size: 100%;
+}
+.b6 {
+  background: rgb(9, 0, 128);
+  color: white;
+  font-size: 12pt;
+}
+
+.n19 {
+  float: right;
+  padding-right: 5px;
+  padding-left: 5px;
+  width: 700px;
+  height: 450px;
+}
+.z1 {
+  size: 30px;
+  text-align: left;
+  height: -1em;
+}
+.m1 {
+  width: 500;
+  height: 500;
+}
